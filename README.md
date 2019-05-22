@@ -1,6 +1,4 @@
-# Oscar
-Oscar is a pressure-activated robotic trash can lid that keeps your hands clean while adding personality to the kitchen
-https://imgur.com/a/uk2J7n2
+finished product: https://imgur.com/a/uk2J7n2
 
 Instructions:
 - Connect a servo to arduino GND, 5V, and ~9
